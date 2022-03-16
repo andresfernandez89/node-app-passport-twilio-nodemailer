@@ -2702,3 +2702,71 @@
   keyPattern: { userId: 1 },
   keyValue: { userId: '6232547a376feafe47033c33' }
 }
+[2022-03-16T20:11:28.892] [ERROR] apisError - The file cannot be written.
+[2022-03-16T20:11:28.893] [ERROR] apisError - MongoServerError: E11000 duplicate key error collection: entrega3-passport-nodemailer-twilio.carts index: userId_1 dup key: { userId: "6232547a376feafe47033c33" }
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\operations\insert.js:51:33
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection_pool.js:272:25
+    at handleOperationResult (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\sdam\server.js:370:9)
+    at MessageStream.messageHandler (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection.js:479:9)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10) {
+  index: 0,
+  code: 11000,
+  keyPattern: { userId: 1 },
+  keyValue: { userId: '6232547a376feafe47033c33' }
+}
+[2022-03-16T20:17:54.910] [ERROR] apisError - The file cannot be written.
+[2022-03-16T20:17:54.910] [ERROR] apisError - MongoServerError: E11000 duplicate key error collection: entrega3-passport-nodemailer-twilio.carts index: userId_1 dup key: { userId: "6232547a376feafe47033c33" }
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\operations\insert.js:51:33
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection_pool.js:272:25
+    at handleOperationResult (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\sdam\server.js:370:9)
+    at MessageStream.messageHandler (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection.js:479:9)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10) {
+  index: 0,
+  code: 11000,
+  keyPattern: { userId: 1 },
+  keyValue: { userId: '6232547a376feafe47033c33' }
+}
+[2022-03-16T20:24:17.873] [ERROR] apisError - The file cannot be written.
+[2022-03-16T20:24:17.874] [ERROR] apisError - MongoServerError: E11000 duplicate key error collection: entrega3-passport-nodemailer-twilio.carts index: userId_1 dup key: { userId: "6232547a376feafe47033c33" }
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\operations\insert.js:51:33
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection_pool.js:272:25
+    at handleOperationResult (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\sdam\server.js:370:9)
+    at MessageStream.messageHandler (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection.js:479:9)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10) {
+  index: 0,
+  code: 11000,
+  keyPattern: { userId: 1 },
+  keyValue: { userId: '6232547a376feafe47033c33' }
+}
+[2022-03-16T20:27:13.128] [ERROR] apisError - The file cannot be written.
+[2022-03-16T20:27:13.129] [ERROR] apisError - MongoServerError: E11000 duplicate key error collection: entrega3-passport-nodemailer-twilio.carts index: userId_1 dup key: { userId: "6232547a376feafe47033c33" }
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\operations\insert.js:51:33
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection_pool.js:272:25
+    at handleOperationResult (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\sdam\server.js:370:9)
+    at MessageStream.messageHandler (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\connection.js:479:9)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10) {
+  index: 0,
+  code: 11000,
+  keyPattern: { userId: 1 },
+  keyValue: { userId: '6232547a376feafe47033c33' }
+}
