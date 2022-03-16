@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include("../partials/head") %>
+</head>
+<body>
+    <div class="container ">
+        <h1 class="text-center mt-4">Pets Shop</h1>
+        <h3 class="text-center m-4 text-primary"><%= title %></h3>
+        <div class="d-flex justify-content-center">
+            <form class="w-50" action="/api/products/add" method="post">
+            <div class="mb-3">
+                <label for="title" class="form-label">Title</label>
+                <input type="text" class="form-control" id="title" placeholder="title" name="title">
+            </div>
+            <div class="mb-3">
+                <label for="description" class="form-label">Description</label>
+                <input type="text" class="form-control" id="description" placeholder="description" name="description">
+            </div>
+            <div class="mb-3">
+                <label for="code" class="form-label">Code</label>
+                <input type="number" class="form-control" id="code" placeholder="code" name="code">
+            </div>
+            <div class="mb-3">
+                <label for="thumbnail" class="form-label">Thumbnail</label>
+                <input type="text" class="form-control" id="thumbnail" placeholder="thumbnail" name="thumbnail">
+            </div>
+            <div class="mb-3">
+                <label for="price" class="form-label">Price</label>
+                <input type="number" class="form-control" id="price" placeholder="price" name="price">
+            </div>
+            <div class="mb-3">
+                <label for="stock" class="form-label">Stock</label>
+                <input type="number" class="form-control" id="stock" placeholder="stock" name="stock">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

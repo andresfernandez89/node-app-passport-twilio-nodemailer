@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<%- include("../partials/head") %>
+	</head>
+	<body class="bg-dark">
+		<div class="container">
+			<div class="row min-vh-100 d-flex justify-content-center align-items-center">
+				<div class="w-25">
+					<div class="col-12 p-4 bg-light jumbotron text-center">
+						<h2>Sign Up</h2>
+						<img
+							src="img/logoPets.png"
+							class="rounded-circle mx-auto d-block m-5"
+							style="width: 50%"
+							alt="logo"
+						/>
+						<form
+							class="form-inline"
+							action="/signup"
+							method="post"
+							enctype="multipart/form-data"
+							autocomplete="off"
+						>
+							<div class="form-group">
+								<label for="userName">Enter your name</label>
+								<input id="userName" class="form-control" type="text" name="userName" required />
+								<label for="userAddress">Enter your address</label>
+								<input
+									id="userAddress"
+									class="form-control"
+									type="text"
+									name="userAddress"
+									required
+								/>
+								<label for="userAge">Enter your age</label>
+								<input id="userAge" class="form-control" type="number" name="userAge" required />
+								<label for="userPhone">Enter your phone number</label>
+								<input
+									id="userPhone"
+									class="form-control"
+									type="number"
+									name="userPhone"
+									required
+								/>
+								<label for="userEmail">Enter your email</label>
+								<input id="userEmail" class="form-control" type="email" name="userEmail" required />
+								<label for="password">Write a password</label>
+								<input
+									id="password"
+									class="form-control"
+									type="password"
+									name="password"
+									required
+								/>
+								<label for="userPhoto">Choose your profile picture</label>
+								<input id="userPhoto" class="form-control" type="file" name="userPhoto" required />
+							</div>
+							<button type="submit" class="btn btn-success mt-3">Send</button>
+						</form>
+					</div>
+					<div class="col-12 bg-primary text-center border">
+						<button type="submit" class="btn btn-primary w-100 my-2 fw-bold fs-4">
+							<a class="text-white text-decoration-none" href="/login">LOG IN</a>
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

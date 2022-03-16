@@ -1,0 +1,669 @@
+[2022-02-21T08:08:54.183] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:63:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-21T08:32:29.299] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:63:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-25T22:47:10.881] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:63:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T09:56:30.832] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:63:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T09:56:31.601] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:63:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T17:38:54.154] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:42:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-02-28T17:40:21.660] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:42:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-02-28T17:40:59.820] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:43:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-02-28T17:44:13.394] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:42:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-02-28T17:44:14.452] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:42:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-02-28T17:44:16.454] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:42:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-02-28T19:40:08.192] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T19:42:06.317] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T19:42:09.109] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T19:42:19.705] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T19:44:17.933] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T19:44:19.483] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T19:44:49.368] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-02-28T19:44:50.455] [WARN] routeNotExist - ReferenceError: usersApi is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:14:20
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-03T23:08:56.108] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T17:03:32.760] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading '_id')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:15:24
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T17:04:30.740] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading '_id')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:15:24
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T17:11:34.608] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:15:24
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T17:11:48.737] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'userName')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:15:24
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T17:31:19.477] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'userName')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:15:24
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T17:51:37.184] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'user')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/user.js:12:64
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T17:51:39.833] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'user')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:15:64
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-05T19:18:52.827] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:47:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T19:20:00.600] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:48:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T21:10:38.171] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:48:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T21:11:07.008] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:48:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T22:40:05.367] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'userName')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:90:36
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T22:40:41.045] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:90:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T22:41:40.365] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:118:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T22:44:43.816] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:90:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T22:44:57.364] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:90:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T22:45:12.418] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:89:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-05T22:48:00.085] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'userName')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:91:36
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+[2022-03-05T22:49:01.126] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'user')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:91:36
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+[2022-03-05T22:58:27.718] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'user')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:91:36
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+[2022-03-06T21:27:28.866] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:49:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T21:38:33.335] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'user')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:89:36
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+[2022-03-06T23:04:49.250] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:97:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:05:24.619] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:96:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:05:43.512] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:49:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:06:55.990] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:96:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:08:24.839] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:09:20.199] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:11:16.799] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:105:42
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:11:37.160] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:105:42
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:13:59.968] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:105:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:14:09.684] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:105:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-06T23:14:34.441] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:105:42
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T17:55:15.686] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:49:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T17:56:22.699] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:49:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T17:57:38.810] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:49:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T17:57:47.285] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'product')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:49:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T17:59:47.782] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:06:16.227] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:06:34.935] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:41
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:11:00.677] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:12:50.252] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:13:47.742] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:14:10.695] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:95:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:15:14.293] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'create')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/cart.js:94:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-03-07T18:26:27.627] [WARN] routeNotExist - RestException [Error]: Media urls: <img class="rounded-circle mt-5" width="150px" src=/uploads/avatar/sol.jpeg are invalid. Please use only valid http and https urls
+    at success (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\twilio\lib\base\Version.js:135:15)
+    at Promise_then_fulfilled (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:766:44)
+    at Promise_done_fulfilled (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:835:31)
+    at Fulfilled_dispatch [as dispatch] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:1229:9)
+    at Pending_become_eachMessage_task (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:1369:30)
+    at RawTask.call (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\asap\asap.js:40:19)
+    at flush (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\asap\raw.js:50:29)
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+  status: 400,
+  code: 21620,
+  moreInfo: 'https://www.twilio.com/docs/errors/21620',
+  details: undefined
+}
+[2022-03-07T18:28:15.524] [WARN] routeNotExist - RestException [Error]: Media urls: <img class="rounded-circle mt-5" width="150px" src=/public/uploads/avatar/sol.jpeg are invalid. Please use only valid http and https urls
+    at success (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\twilio\lib\base\Version.js:135:15)
+    at Promise_then_fulfilled (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:766:44)
+    at Promise_done_fulfilled (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:835:31)
+    at Fulfilled_dispatch [as dispatch] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:1229:9)
+    at Pending_become_eachMessage_task (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:1369:30)
+    at RawTask.call (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\asap\asap.js:40:19)
+    at flush (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\asap\raw.js:50:29)
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+  status: 400,
+  code: 21620,
+  moreInfo: 'https://www.twilio.com/docs/errors/21620',
+  details: undefined
+}
+[2022-03-07T18:29:07.737] [WARN] routeNotExist - RestException [Error]: Media urls: <img class="rounded-circle mt-5" width="150px" src=public/uploads/avatar/sol.jpeg are invalid. Please use only valid http and https urls
+    at success (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\twilio\lib\base\Version.js:135:15)
+    at Promise_then_fulfilled (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:766:44)
+    at Promise_done_fulfilled (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:835:31)
+    at Fulfilled_dispatch [as dispatch] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:1229:9)
+    at Pending_become_eachMessage_task (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\q\q.js:1369:30)
+    at RawTask.call (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\asap\asap.js:40:19)
+    at flush (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\asap\raw.js:50:29)
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+  status: 400,
+  code: 21620,
+  moreInfo: 'https://www.twilio.com/docs/errors/21620',
+  details: undefined
+}
+[2022-03-08T07:40:51.257] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T07:41:22.261] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T07:42:15.339] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T07:42:30.126] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:04:48.553] [WARN] routeNotExist - ReferenceError: nameUser is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:65:31
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:04:59.829] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:23
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:05:39.289] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'session')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:27
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:05:49.690] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'session')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:27
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:06:19.264] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'user')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:35
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:06:42.323] [WARN] routeNotExist - ReferenceError: nameUser is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:12
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:06:57.388] [WARN] routeNotExist - ReferenceError: nameUser is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:12
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:07:58.506] [WARN] routeNotExist - ReferenceError: nameUser is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:12
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:08:18.305] [WARN] routeNotExist - ReferenceError: nameUser is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:12
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:08:31.613] [WARN] routeNotExist - ReferenceError: nameUser is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:12
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:08:51.474] [WARN] routeNotExist - ReferenceError: nameUser is not defined
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:62:12
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:13:46.732] [WARN] routeNotExist - TypeError: req.logout is not a function
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:64:7
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:15:07.618] [WARN] routeNotExist - TypeError: req.logout is not a function
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:64:7
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:16:40.506] [WARN] routeNotExist - TypeError: req.session.passport.logout is not a function
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:64:24
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T08:17:20.819] [WARN] routeNotExist - TypeError: req.session.passport.user.logout is not a function
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/auth.js:64:29
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-08T20:39:39.667] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading 'passport')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:15:55
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)
+[2022-03-16T18:13:10.468] [WARN] routeNotExist - TypeError: Cannot read properties of undefined (reading '_id')
+    at file:///D:/projects/backend/entrega3-passport-logger-nodemailer-twilio/src/routes/products.js:18:30
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\projects\backend\entrega3-passport-logger-nodemailer-twilio\node_modules\express\lib\router\index.js:47:12)

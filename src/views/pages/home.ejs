@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include("../partials/head") %>
+</head>
+<body>
+    <div class=" "><%- include("../partials/session") %></div>
+    <div class="container">
+        <h1 class="fs-1 text-center mt-4">Pets Shop</h1>
+        <div class="text-center my-5"><a href="/api/products/form?admin=true" class="fs-5 btn btn-success text-center bold">Add Product</a></div>
+        <% if(data)  { %>
+        <h3 class="text-center m-4 text-primary"><u><%= title %></u></h3>
+        <div class="row g-3 d-flex justify-content-center">
+
+            <% data.forEach((product)=>{ %>
+            <div id={id} class="col-md-4  d-flex justify-content-center">
+                <div>
+                    <div class="card col-md-3 m-2 rounded-3" style="width: 18rem">
+                        <img
+                            src= "<%= product.thumbnail %>"
+                            class="rounded"
+                            alt=<%= product.title %>
+                        />
+                        <div class="card-body">
+                            <h5 class="card-title"><%= product.title %></h5>
+                            <p class="fw-bold" style="font-size: 36px">
+                                <%= product.price %>
+                            </p>
+                            <p class="card-text"><%= product.description %></p>
+                            <h5 class="card-title">Code: <%= product.code %></h5>
+                            <p class="card-title">Stock: <%= product.stock %></p>
+                            <a href="/api/products/<%= product.id %>" class="btn btn-success fw-bold">
+                                View
+                            </a>
+                            <a href="/api/products/form/<%= product.id %>?admin=true" class="btn btn-primary fw-bold">
+                                Edit
+                            </a>
+                            <button class="btn btn-danger fw-bold" onclick="sendId(`<%= product.id %>`)"> Delete</button>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <% }) %>
+
+        <% } else { %>
+            <h3 class="mt-4 text-center text-danger">There are not Products</h3>
+        <% } %>
+    </div>
+</body>
+</html>

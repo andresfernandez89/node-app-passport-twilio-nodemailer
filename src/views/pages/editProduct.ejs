@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include("../partials/head") %>
+</head>
+<body>
+    <div class="container ">
+        <h1 class="text-center mt-4">Pets Shop</h1>
+        <h3 class="text-center m-4 text-primary"><%= title %></h3>
+        <div class="d-flex justify-content-center">
+            <form id="editForm" class="w-50">
+            <input id="idPr" value="<%= data.id %>" type="hidden">
+            <div class="mb-3">
+                <label for="title" class="form-label">Title</label>
+                <input type="text" class="form-control" id="titlePr" value="<%= data.title %>" name="title">
+            </div>
+            <div class="mb-3">
+                <label for="description" class="form-label">Description</label>
+                <input type="text" class="form-control" id="descriptionPr" value="<%= data.description %>" name="description">
+            </div>
+            <div class="mb-3">
+                <label for="code" class="form-label">Code</label>
+                <input type="number" class="form-control" id="codePr" value="<%= data.code %>" name="code">
+            </div>
+            <div class="mb-3">
+                <label for="thumbnail" class="form-label">Thumbnail</label>
+                <input type="text" class="form-control" id="thumbnailPr" value="<%= data.thumbnail %>" name="thumbnail">
+            </div>
+            <div class="mb-3">
+                <label for="price" class="form-label">Price</label>
+                <input type="number" class="form-control" id="pricePr" value="<%= data.price %>" name="price">
+            </div>
+            <div class="mb-3">
+                <label for="stock" class="form-label">Stock</label>
+                <input type="number" class="form-control" id="stockPr" value="<%= data.stock %>" name="stock">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button  class="btn btn-success" ><a class="text-white text-decoration-none" href="/api/products/">Ver lista completa</a></button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
